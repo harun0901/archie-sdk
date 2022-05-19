@@ -8,9 +8,9 @@
   "files": [
     "dist"
   ],
-  "repository": "https://github.com/Uniswap/uniswap-v2-sdk.git",
+  "repository": "https://github.com/harun0901/archie-sdk.git",
   "keywords": [
-    "uniswap",
+    "archieswap",
     "ethereum"
   ],
   "module": "dist/v2-sdk.esm.js",
